@@ -1,5 +1,4 @@
 
-### Submission by Sachin Dangayach
 
 # Objective
 
@@ -8,9 +7,6 @@
   - What problem have you solved (fill in the blank, translation, text generation, etc.)
   - The output of your training for 10 epochs
 
-# Solution -
-
-[Colab Link](https://colab.research.google.com/drive/13v_KZT_9lUon0xLnHyKdxapTIrm4p8nE?usp=sharing)
 
 ## Dataset Used
 
